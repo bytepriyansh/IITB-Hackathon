@@ -7,10 +7,8 @@ This is a fully animated, visually immersive, and interaction-rich frontend-only
 
 ---
 
-## 🌐 Live Preview
+🔗 **Live Preview:** [https://iitb-hackathon-priyansh.vercel.app/](https://iitb-hackathon-priyansh.vercel.app/)
 
-
----
 
 ## 🧩 Features
 
