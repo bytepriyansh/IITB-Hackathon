@@ -3,9 +3,9 @@
 This is a fully animated, visually immersive, and interaction-rich frontend-only website built using modern web technologies. It showcases advanced UI/UX principles with stunning transitions, parallax effects, animated graphs, responsive carousels, and more.
 
 > 🚨 **Note:** No commits were made after **6:00 PM IST on June 19, 2025** as per submission guidelines.
-> AI tools played a vital role in enhancing both design and development. Tools like Lovable, Bolt, V0, ChatGPT, DeepSeek, and Claude were used to ideate, prototype, generate UI elements, debug interactions, and streamline the entire development workflow.
 
 ---
+#  AI tools played a vital role in enhancing both design and development. Tools like Lovable, Bolt, V0, ChatGPT, DeepSeek, and Claude were used to ideate, prototype, generate UI elements, debug interactions, and streamline the entire development workflow.
 
 🔗 **Live Preview:** [https://iitb-hackathon-priyansh.vercel.app/](https://iitb-hackathon-priyansh.vercel.app/)
 
