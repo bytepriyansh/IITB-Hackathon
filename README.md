@@ -1,73 +1,46 @@
-# Welcome to your Lovable project
+# ✨ Animated Frontend Showcase Website
 
-## Project info
+This is a fully animated, visually immersive, and interaction-rich frontend-only website built using modern web technologies. It showcases advanced UI/UX principles with stunning transitions, parallax effects, animated graphs, responsive carousels, and more.
 
-**URL**: https://lovable.dev/projects/8302f892-038d-4c23-b739-66dc053f3550
+> 🚨 **Note:** No commits were made after **6:00 PM IST on June 19, 2025** as per submission guidelines.
 
-## How can I edit this code?
+---
 
-There are several ways of editing your application.
+## 🌐 Live Preview
 
-**Use Lovable**
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/8302f892-038d-4c23-b739-66dc053f3550) and start prompting.
+---
 
-Changes made via Lovable will be committed automatically to this repo.
+## 🧩 Features
 
-**Use your preferred IDE**
+- 🎞️ **Animated Carousel Switcher** – with 3D transitions and slide animations
+- 🃏 **Responsive Card Layout** – with hover ripple, tilt, and glow effects
+- 👥 **Bento Grid Customers Section** – animated testimonials and logos
+- ✨ **Feature Highlights** – infinite looping animations and icon transitions
+- 📊 **Graph Section** – interactive bar/line charts with scroll animations
+- 🏠 **Homepage** – parallax layers, animated headlines, and interactive CTA
+- ⏳ **Animated Loader** – SVG-based preloader with fluid transitions
+- 🌌 **Parallax Scrolling** – layered scroll animations and depth effects
+- 🌊 **Ripple Effects & Micro-animations** – throughout buttons and UI
+- 🔼 **Scroll-triggered Popups** – fade, zoom, and elastic reveal animations
+- 📽️ **Showcase Work** – embedded videos and animated overlays
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+---
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+## 🚀 Getting Started
 
-Follow these steps:
+These instructions will help you run the project locally on your machine.
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+### ✅ Prerequisites
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+Make sure you have the following installed:
 
-# Step 3: Install the necessary dependencies.
-npm i
+- [Node.js](https://nodejs.org/) (if using npm-based bundlers)
+- A live server (VS Code Live Server or `http-server` npm package)
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+### 🔧 Installation
 
-**Edit a file directly in GitHub**
+1. Clone this repository:
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/8302f892-038d-4c23-b739-66dc053f3550) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+```bash
+git clone https://github.com/your-username/animated-frontend-showcase.git
