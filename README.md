@@ -38,9 +38,29 @@ Make sure you have the following installed:
 - [Node.js](https://nodejs.org/) (if using npm-based bundlers)
 - A live server (VS Code Live Server or `http-server` npm package)
 
-### 🔧 Installation
+## 🔧 Setup Instructions
 
-1. Clone this repository:
+### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/animated-frontend-showcase.git
+git clone https://github.com/your-username/your-repo-name.git
+cd your-repo-name
+```
+
+### 2. Install Dependencies
+
+```bash
+npm install
+```
+
+### 3. Run the Development Server
+
+```bash
+npm run dev
+```
+
+### 4.Open in your browser
+
+```bash
+http://localhost:8081
+```
