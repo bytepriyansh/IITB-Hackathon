@@ -1,4 +1,4 @@
-# ✨ Animated Frontend Showcase Website
+# ✨ IITB HACKATHON HACKATHON WEBSITE
 
 This is a fully animated, visually immersive, and interaction-rich frontend-only website built using modern web technologies. It showcases advanced UI/UX principles with stunning transitions, parallax effects, animated graphs, responsive carousels, and more.
 
